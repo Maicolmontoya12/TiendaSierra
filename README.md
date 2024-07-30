@@ -2,4 +2,6 @@
 
 Software para agilizar procesos en la Tienda Sierra
 
-hola maicol lindo 
+<<<<<<< main
+hola soy david
+>>>>>>> main
